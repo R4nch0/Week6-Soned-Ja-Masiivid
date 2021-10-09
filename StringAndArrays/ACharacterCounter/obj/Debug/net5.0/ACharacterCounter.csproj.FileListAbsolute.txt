@@ -1,0 +1,16 @@
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.exe
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.deps.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.runtimeconfig.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\bin\Debug\net5.0\ref\ACharacterCounter.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\bin\Debug\net5.0\ACharacterCounter.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\obj\Debug\net5.0\ref\ACharacterCounter.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\ACharacterCounter\obj\Debug\net5.0\ACharacterCounter.genruntimeconfig.cache

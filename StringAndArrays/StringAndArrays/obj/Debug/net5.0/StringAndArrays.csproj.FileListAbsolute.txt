@@ -1,0 +1,16 @@
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.exe
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.deps.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.runtimeconfig.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.runtimeconfig.dev.json
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\bin\Debug\net5.0\ref\StringAndArrays.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\bin\Debug\net5.0\StringAndArrays.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\obj\Debug\net5.0\ref\StringAndArrays.dll
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.pdb
+C:\Users\kevin\Desktop\Progemine\Nädal 6\StringAndArrays\StringAndArrays\obj\Debug\net5.0\StringAndArrays.genruntimeconfig.cache
